@@ -30,6 +30,7 @@ Students will learn how to organize their files by creating an `audio` folder, t
    │   └── your-image-file.jpg
    ├── videos/
    │   └── your-video-file.mp4
+   ├── screenshot.png
    ├── iframe.html
    └── index.html
    ```
